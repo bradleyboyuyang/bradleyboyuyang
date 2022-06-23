@@ -23,4 +23,4 @@ I will share part of my latest projects on backtesting pipelines, deep learning,
 </p>
 
 
-[![Bradley's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bradleyboyuyang&theme=xcode)](https://github.com/saadhaxxan)
+[![Bradley's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bradleyboyuyang&theme=xcode)](https://github.com/bradleyboyuyang)
