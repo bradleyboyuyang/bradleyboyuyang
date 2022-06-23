@@ -16,25 +16,10 @@ I will share part of my latest projects on backtesting pipelines, deep learning,
 
 <p align="left">
 <a href="https://github.com/bradleyboyuyang">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bradleyboyuyang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="137px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bradleyboyuyang&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="237px" src="https://github-readme-stats.vercel.app/api?username=bradleyboyuyang&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="237px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bradleyboyuyang&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=bradleyboyuyang&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=bradleyboyuyang&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
 
-
-<!--
-**bradleyboyuyang/bradleyboyuyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
