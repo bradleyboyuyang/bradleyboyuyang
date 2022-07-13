@@ -4,7 +4,7 @@ This is Bradley, currently a junior studying financial engineering at the Chines
 - 🔭 I’m currently working as an HFT intern to develop statistical arbitrage strategies
 - 📫 How to reach me: boyuyang@link.cuhk.edu.cn
 
-I will share part of my latest projects on backtesting pipelines, deep learning, stochastic simulation, etc.
+I will share part of my latest projects on backtesting pipelines, deep learning, trading insights, etc.
 
 
 
