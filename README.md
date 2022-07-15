@@ -1,6 +1,5 @@
 ### Hi:) 👋
 
-This is Bradley, currently a senior studying financial engineering at the Chinese University of Hong Kong, Shenzhen. 
 - 🔭 I’m currently working as an HFT intern to develop statistical arbitrage strategies
 - 📫 How to reach me: boyuyang@link.cuhk.edu.cn
 
