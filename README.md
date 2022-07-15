@@ -1,6 +1,6 @@
 ### Hi:) 👋
 
-I'm a senior financial engineering student at CUHK-Shenzhen. My interested area includes algo trading, deep learning, and crypto trading.
+This is Bradley, a financial engineering senior at CUHK-Shenzhen.
 - 🔭 I'm currently working as an HFT intern to develop statistical arbitrage strategies
 - 📫 How to reach me: boyuyang@link.cuhk.edu.cn
 
