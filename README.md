@@ -1,10 +1,3 @@
-### Hi:) 👋
-
-I'm Bradley, a financial engineering senior at CUHK-Shenzhen.
-- 🔭 I'm currently working as an HFT intern to develop intraday CTA, statistical arbitrage, and other T0 strategies
-- 📫 How to reach me: boyuyang@link.cuhk.edu.cn
-
-I will share part of my latest projects on backtesting pipelines, deep learning, course projects, etc.
 
 
 
