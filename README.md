@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://github.com/bradleyboyuyang">
   <img height="192px" src="https://github-readme-stats.vercel.app/api?username=bradleyboyuyang&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-  <img height="192px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bradleyboyuyang&layout=compact&langs_count=8&theme=swift"/>
+  <img height="192px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bradleyboyuyang&layout=compact&langs_count=8&theme=graywhite"/>
 </a>
  
   
