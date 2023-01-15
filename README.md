@@ -21,7 +21,7 @@
 
 <p align="left">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-season-animate.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-view.svg">
 	</a>
 </p>
 
