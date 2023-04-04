@@ -12,8 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # token: ${{ secrets.METRICS_TOKEN }}
-          token: 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
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: bradleyboyuyang
