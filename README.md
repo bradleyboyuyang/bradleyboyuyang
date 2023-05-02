@@ -19,11 +19,11 @@
 
 <!-- <img height="265px" width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bradleyboyuyang&theme=gruvbox"/> -->
 
-<p align="left">
+<!-- <p align="left">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img width="900em" src="./profile-3d-contrib/profile-night-view.svg">
 	</a>
-</p>
+</p> -->
 
 
 <!-- <p align="left">
